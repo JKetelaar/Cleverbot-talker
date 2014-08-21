@@ -1,5 +1,3 @@
-package nl.jketelaar.chatter.main;
-
 import nl.jketelaar.chatter.CleverbotSession;
 
 /**
